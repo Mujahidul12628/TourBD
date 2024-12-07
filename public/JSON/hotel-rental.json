@@ -1,0 +1,58 @@
+[
+    {
+      "hotelName": "Sea Breeze Hotel",
+      "location": "21/3 Maijdee",
+      "district": "Noakhali",
+      "division": "Chattogram",
+      "checkInDate": "2024-12-15",
+      "checkOutDate": "2024-12-20",
+      "guest": 2,
+      "room": 5,
+      "price": 1500
+    },
+    {
+      "hotelName": "Hilltop Retreat",
+      "location": "Road 12, Bandarban Sadar",
+      "district": "Bandarban",
+      "division": "Chattogram",
+      "checkInDate": "2024-12-18",
+      "checkOutDate": "2024-12-22",
+      "guest": 4,
+      "room": 3,
+      "price": 2200
+    },
+    {
+      "hotelName": "City Comfort Inn",
+      "location": "15 Gulshan Avenue",
+      "district": "Dhaka",
+      "division": "Dhaka",
+      "checkInDate": "2024-12-10",
+      "checkOutDate": "2024-12-14",
+      "guest": 1,
+      "room": 10,
+      "price": 1000
+    },
+    {
+      "hotelName": "Lakeside Cottage",
+      "location": "5 Kaptai Road",
+      "district": "Rangamati",
+      "division": "Chattogram",
+      "checkInDate": "2024-12-12",
+      "checkOutDate": "2024-12-16",
+      "guest": 3,
+      "room": 4,
+      "price": 1800
+    },
+    {
+      "hotelName": "Desert Rose Hotel",
+      "location": "Plot 9, Kuakata",
+      "district": "Patuakhali",
+      "division": "Barishal",
+      "checkInDate": "2024-12-20",
+      "checkOutDate": "2024-12-25",
+      "guest": 2,
+      "room": 8,
+      "price": 2000
+    }
+  ]
+  

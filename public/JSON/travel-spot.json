@@ -1,0 +1,137 @@
+[
+  {
+    "destination_name": "Sundarbans",
+    "division": "Khulna",
+    "district": "Satkhira",
+    "category": "Nature",
+    "date": "2024-01-15",
+    "start_date": "2024-12-15",
+    "end_date": "2024-12-30"
+  },
+  {
+    "destination_name": "Cox's Bazar",
+    "division": "Chittagong",
+    "district": "Cox's Bazar",
+    "category": "Beach",
+    "date": "2024-02-10",
+    "start_date": "2024-12-15",
+    "end_date": "2024-12-30"
+  },
+  {
+    "destination_name": "Srimangal",
+    "division": "Sylhet",
+    "district": "Moulvibazar",
+    "category": "Nature",
+    "date": "2024-03-05",
+     "start_date": "2024-12-15",
+    "end_date": "2024-12-30"
+  },
+  {
+    "destination_name": "Rangamati",
+    "division": "Chittagong",
+    "district": "Rangamati",
+    "category": "Adventure",
+    "date": "2024-04-20",
+    "start_date": "2024-04-15",
+    "end_date": "2024-04-25"
+  },
+  {
+    "destination_name": "Sreemangal",
+    "division": "Sylhet",
+    "district": "Moulvibazar",
+    "category": "Nature",
+    "date": "2024-05-01",
+    "start_date": "2024-04-28",
+    "end_date": "2024-05-05"
+  },
+  {
+    "destination_name": "Chilapata Forest",
+    "division": "Rajshahi",
+    "district": "Jalpaiguri",
+    "category": "Adventure",
+    "date": "2024-06-14",
+    "start_date": "2024-06-10",
+    "end_date": "2024-06-20"
+  },
+  {
+    "destination_name": "Bandarbans",
+    "division": "Chittagong",
+    "district": "Bandarban",
+    "category": "Mountain",
+    "date": "2024-07-09",
+    "start_date": "2024-07-05",
+    "end_date": "2024-07-15"
+  },
+  {
+    "destination_name": "Kuakata",
+    "division": "Barisal",
+    "district": "Patuakhali",
+    "category": "Beach",
+    "date": "2024-08-15",
+    "start_date": "2024-08-10",
+    "end_date": "2024-08-18"
+  },
+  {
+    "destination_name": "Jaflong",
+    "division": "Sylhet",
+    "district": "Sylhet",
+    "category": "Mountain",
+    "date": "2024-09-10",
+    "start_date": "2024-09-05",
+    "end_date": "2024-09-15"
+  },
+  {
+    "destination_name": "Paharpur",
+    "division": "Rajshahi",
+    "district": "Naogaon",
+    "category": "Historical",
+    "date": "2024-10-20",
+    "start_date": "2024-10-15",
+    "end_date": "2024-10-25"
+  },
+  {
+    "destination_name": "Madhabkunda Waterfall",
+    "division": "Sylhet",
+    "district": "Moulvibazar",
+    "category": "Mountain",
+    "date": "2024-11-05",
+    "start_date": "2024-11-01",
+    "end_date": "2024-11-10"
+  },
+  {
+    "destination_name": "Bagerhat",
+    "division": "Khulna",
+    "district": "Bagerhat",
+    "category": "Historical",
+    "date": "2024-12-15",
+    "start_date": "2024-12-10",
+    "end_date": "2024-12-20"
+  },
+  {
+    "destination_name": "Puthia",
+    "division": "Rajshahi",
+    "district": "Rajshahi",
+    "category": "Historical",
+    "date": "2024-01-25",
+    "start_date": "2024-01-20",
+    "end_date": "2024-01-30"
+  },
+  {
+    "destination_name": "Tangail",
+    "division": "Mymensingh",
+    "district": "Tangail",
+    "category": "Nature",
+    "date": "2024-02-18",
+    "start_date": "2024-02-10",
+    "end_date": "2024-02-22"
+  },
+  {
+    "destination_name": "Sundarban National Park",
+    "division": "Khulna",
+    "district": "Khulna",
+    "category": "Mountain",
+    "date": "2024-03-30",
+    "start_date": "2024-03-25",
+    "end_date": "2024-04-05"
+  }
+]
