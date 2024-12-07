@@ -1,0 +1,102 @@
+{
+    "Barisal": {
+        "id": "Bar1000",
+        "districts": [
+            { "district_code": 10001, "district_name": "Barisal" },
+            { "district_code": 10002, "district_name": "Barguna" },
+            { "district_code": 10003, "district_name": "Bhola" },
+            { "district_code": 10004, "district_name": "Jhalokathi" },
+            { "district_code": 10005, "district_name": "Patuakhali" },
+            { "district_code": 10006, "district_name": "Pirojpur" }
+        ]
+    },
+    "Chattogram": {
+        "id": "Cha1000",
+        "districts": [
+            { "district_code": 20001, "district_name": "Chattogram" },
+            { "district_code": 20002, "district_name": "Cox's Bazar" },
+            { "district_code": 20003, "district_name": "Cumilla" },
+            { "district_code": 20004, "district_name": "Feni" },
+            { "district_code": 20005, "district_name": "Khagrachari" },
+            { "district_code": 20006, "district_name": "Lakshmipur" },
+            { "district_code": 20007, "district_name": "Noakhali" },
+            { "district_code": 20008, "district_name": "Bandarban" },
+            { "district_code": 20009, "district_name": "Rangamati" }
+        ]
+    },
+    "Dhaka": {
+        "id": "Dha1000",
+        "districts": [
+            { "district_code": 30001, "district_name": "Dhaka" },
+            { "district_code": 30002, "district_name": "Faridpur" },
+            { "district_code": 30003, "district_name": "Gazipur" },
+            { "district_code": 30004, "district_name": "Gopalganj" },
+            { "district_code": 30005, "district_name": "Kishoreganj" },
+            { "district_code": 30006, "district_name": "Madaripur" },
+            { "district_code": 30007, "district_name": "Manikganj" },
+            { "district_code": 30008, "district_name": "Munshiganj" },
+            { "district_code": 30009, "district_name": "Narayanganj" },
+            { "district_code": 30010, "district_name": "Narsingdi" },
+            { "district_code": 30011, "district_name": "Shariatpur" },
+            { "district_code": 30012, "district_name": "Tangail" }
+        ]
+    },
+    "Khulna": {
+        "id": "Khu1000",
+        "districts": [
+            { "district_code": 40001, "district_name": "Khulna" },
+            { "district_code": 40002, "district_name": "Bagerhat" },
+            { "district_code": 40003, "district_name": "Chuadanga" },
+            { "district_code": 40004, "district_name": "Jessore" },
+            { "district_code": 40005, "district_name": "Jhenaidah" },
+            { "district_code": 40006, "district_name": "Kusumgram" },
+            { "district_code": 40007, "district_name": "Meherpur" },
+            { "district_code": 40008, "district_name": "Satkhira" }
+        ]
+    },
+    "Rajshahi": {
+        "id": "Raj1000",
+        "districts": [
+            { "district_code": 50001, "district_name": "Rajshahi" },
+            { "district_code": 50002, "district_name": "Bogura" },
+            { "district_code": 50003, "district_name": "Chapainawabganj" },
+            { "district_code": 50004, "district_name": "Naogaon" },
+            { "district_code": 50005, "district_name": "Natore" },
+            { "district_code": 50006, "district_name": "Pabna" },
+            { "district_code": 50007, "district_name": "Joypurhat" },
+            { "district_code": 50008, "district_name": "Sirajganj" }
+        ]
+    },
+    "Rangpur": {
+        "id": "Ran1000",
+        "districts": [
+            { "district_code": 60001, "district_name": "Rangpur" },
+            { "district_code": 60002, "district_name": "Dinajpur" },
+            { "district_code": 60003, "district_name": "Kurigram" },
+            { "district_code": 60004, "district_name": "Lalmonirhat" },
+            { "district_code": 60005, "district_name": "Moulvibazar" },
+            { "district_code": 60006, "district_name": "Nilphamari" },
+            { "district_code": 60007, "district_name": "Panchagarh" },
+            { "district_code": 60008, "district_name": "Thakurgaon" }
+        ]
+    },
+    "Mymensingh": {
+        "id": "Mym1000",
+        "districts": [
+            { "district_code": 70001, "district_name": "Mymensingh" },
+            { "district_code": 70002, "district_name": "Jamalpur" },
+            { "district_code": 70003, "district_name": "Moulvibazar" },
+            { "district_code": 70004, "district_name": "Netrokona" },
+            { "district_code": 70005, "district_name": "Sherpur" }
+        ]
+    },
+    "Sylhet": {
+        "id": "Syl1000",
+        "districts": [
+            { "district_code": 80001, "district_name": "Sylhet" },
+            { "district_code": 80002, "district_name": "Moulvibazar" },
+            { "district_code": 80003, "district_name": "Habiganj" },
+            { "district_code": 80004, "district_name": "Sunamganj" }
+        ]
+    }
+}
